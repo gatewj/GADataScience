@@ -2,6 +2,17 @@
 # General Assembly Data Science
 ## NYC 18 Syllabus
 
+**Description**: What practical skill sets can I expect to have upon completion of the course?
+This course will provide you with technical skills in machine learning, algorithms, and data modeling which will allow you to make accurate predictions about your data. You will be creating your models using Python so you will gain a good grasp of this programming language. Furthermore, you will learn how to parse and clean your data which can take up to 70% of your time as a data scientist.
+
+**Skills and Tools:** Use Python to mine datasets and predict patterns.
+
+**Production Standard:** Build statistical models — regression and classification — that generate usable information from raw data.
+
+**The Big Picture:** Master the basics of machine learning and harness the power of data to forecast what’s next.
+
+
+
 ### Class Schedule
 
 Wk    |Monday |Wednesday
