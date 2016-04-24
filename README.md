@@ -1,4 +1,3 @@
-# GADataScience
 # General Assembly Data Science
 ## NYC 18 Syllabus
 
@@ -10,6 +9,9 @@ This course will provide you with technical skills in machine learning, algorith
 **Production Standard:** Build statistical models — regression and classification — that generate usable information from raw data.
 
 **The Big Picture:** Master the basics of machine learning and harness the power of data to forecast what’s next.
+
+
+[FINAL PROJECT: Can complaints in New York City affect the price of condominiums?](https://docs.google.com/presentation/d/1ZNs0P3-tUUVo0rvaGj-rS7CubfdKTbHttHMDDSAbfhI/pub?start=false&loop=false&delayms=3000)
 
 
 
